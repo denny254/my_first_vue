@@ -22,8 +22,8 @@
 export default {
   data() {
     return {
-      firstName: 'Ivan', 
-      lastName: 'Hunter',   
+      firstName: 'Benson', 
+      lastName: 'Okinyi',   
       phoneNumber: '123-456-7890' 
     };
   }
